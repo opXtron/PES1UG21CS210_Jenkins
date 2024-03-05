@@ -6,7 +6,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "A change to hello.cpp";
-  cout << "Webhook enabled" ;
+  cout << "A change to hello.cpp\n";
+  cout << "Webhook enabled\n" ;
   return 0;
 }
