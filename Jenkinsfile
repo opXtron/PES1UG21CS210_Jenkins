@@ -11,7 +11,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                    sh 'some_non_existent_command'
+                    sh './output'
             }
         }
 
